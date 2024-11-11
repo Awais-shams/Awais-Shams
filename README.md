@@ -1,6 +1,6 @@
 # 👋 Awais Shamas
 
-**Software Engineer | IBM-Certified Full Stack Developer**
+**Software Engineer | IBM-Certified Full Stack Developer | Data Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/awais-shamas)](https://linkedin.com/in/awais-shamas)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Awais-shams)](https://github.com/Awais-shams)
@@ -10,45 +10,74 @@
 
 ### About Me
 
-I’m a passionate Software Engineer with over three years of experience in full stack development and an IBM Full Stack Development Certification. With a strong foundation in Computer Science (Bachelor’s) and Data Analytics (Master’s), my work spans across web development, data analytics, and machine learning. I strive to deliver scalable and efficient solutions, leveraging my diverse technical background to tackle complex challenges.
+A Software Engineer with over 3 years of experience in building responsive and scalable web applications. I hold a B.S. in Computer Science from FAST–NUCES and am currently pursuing an M.Sc. in Data Analytics at the National College of Ireland.
+
 
 Outside of coding, I’m an enthusiastic table tennis player and a tech writer on Medium, where I share insights on software development and emerging tech trends.
 
 ### Skills
 
-**Languages**  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-- ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=postgresql)
 
-**Frameworks & Libraries**  
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
+### Frontend Development
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
+![MobX](https://img.shields.io/badge/-MobX-orange?style=flat-square&logo=mobx)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
 
-**Databases**  
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+### Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=flat-square&logo=nestjs)
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
 
-**Tools & Platforms**  
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+### Data Analytics
+![Apache Hadoop](https://img.shields.io/badge/-Apache_Hadoop-yellow?style=flat-square&logo=apache-hadoop)
+![PySpark](https://img.shields.io/badge/-PySpark-orange?style=flat-square&logo=apache-spark)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-lightblue?style=flat-square&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
+![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-blue?style=flat-square&logo=tensorflow)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-lightgrey?style=flat-square&logo=python)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-darkblue?style=flat-square&logo=deeplearning)
+![IoT](https://img.shields.io/badge/-IoT-blue?style=flat-square&logo=internet-of-things)
 
-### Projects
+### Web Scraping
+![Scrapy](https://img.shields.io/badge/-Scrapy-green?style=flat-square&logo=scrapy)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-brightgreen?style=flat-square)
 
-- **[Grocwise](https://github.com/Awais-shams/grocwise)**: A household grocery note-taking app with CRUD functionality, designed for efficiency and ease of use.
-- **Next-Talent**: A talent sourcing platform built with a microservices architecture for streamlined recruitment processes.
-- **Boxcheck**: A logistics management tool for tracking and managing packages, built to enhance shipping efficiency.
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-orange?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![BitBucket](https://img.shields.io/badge/-BitBucket-blue?style=flat-square&logo=bitbucket)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
+![JIRA](https://img.shields.io/badge/-JIRA-blue?style=flat-square&logo=jira)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
+
+### Current Work
+- Working on a machine learning approach to anomaly detection on edge devices, including model compression with TensorFlow Lite for real-time analytics.
+
 
 ### Articles on Medium
 
-I regularly write on Medium to share my knowledge and insights on software development, data analytics, and tech trends. [Check out my articles here!](https://medium.com/@imawaisshams)
+I write on Medium to share my knowledge and insights on software development, data analytics, and tech trends. [Check out my articles here!](https://medium.com/@imawaisshams)
 
 ---
 
