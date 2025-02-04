@@ -5,8 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/awais-shamas)](https://linkedin.com/in/awais-shamas)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Awais-shams)](https://github.com/Awais-shams)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@imawaisshams)](https://medium.com/@imawaisshams)
-📧 imawaisshams@gmail.com
-📱 +353 83 3478836
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:imawaisshams@gmail.com)](mailto:imawaisshams@gmail.com)  
+[![Phone](https://img.shields.io/badge/-Phone-green?style=flat-square&logo=whatsapp&logoColor=white&link=tel:+353833478836)](tel:+353833478836)  
 
 ---
 
