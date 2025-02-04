@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/awais-shamas)](https://linkedin.com/in/awais-shamas)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Awais-shams)](https://github.com/Awais-shams)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@imawaisshams)](https://medium.com/@imawaisshams)
+📧 imawaisshams@gmail.com
+📱 +353 83 3478836
 
 ---
 
@@ -70,20 +72,9 @@ Outside of coding, I’m an enthusiastic table tennis player and a tech writer o
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 
-### Current Work
-- Working on a machine learning approach to anomaly detection on edge devices, including model compression with TensorFlow Lite for real-time analytics.
-
-
 ### Articles on Medium
 
 I write on Medium to share my knowledge and insights on software development, data analytics, and tech trends. [Check out my articles here!](https://medium.com/@imawaisshams)
-
----
-
-### Contact
-
-📧 [imawaisshams@gmail.com](mailto:imawaisshams@gmail.com)  
-📱 [+353 83 3478836](tel:+353833478836)
 
 ---
 
