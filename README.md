@@ -12,9 +12,7 @@
 
 ### About Me
 
-A Software Engineer with over 3 years of experience in building responsive and scalable web applications. I hold a B.S. in Computer Science from FAST–NUCES and an M.Sc. in Data Analytics from the National College of Ireland. My thesis focused on anomaly detection in resource usage of processes on edge devices.
-
-Outside of coding, I’m an enthusiastic table tennis player and a tech writer on Medium, where I share insights on software development and emerging tech trends.
+Software Engineer with a strong background in building scalable, user-centric applications and contributing to high-impact projects across diverse domains. With experience in both startups and enterprise environments, I thrive in cross-functional teams, drive efficient development practices, and bring a data-informed mindset to problem-solving. I hold an MSc in Data Analytics and a Bachelor's in Computer Science, and I'm passionate about continuous learning, mentoring, and exploring innovative ideas that push technology forward.
 
 ### Skills
 
